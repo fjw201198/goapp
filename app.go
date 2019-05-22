@@ -1,3 +1,5 @@
+// package goapp provides a common methods for app. contains signal catch,
+// wait exit, create pid file.
 package goapp
 
 import (
